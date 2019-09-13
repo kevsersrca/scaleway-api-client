@@ -1,6 +1,6 @@
 # Scaleway API
 
-All endpoints :developers.scaleway.com
+All methods: developers.scaleway.com
 
 ### Available Methods
 
